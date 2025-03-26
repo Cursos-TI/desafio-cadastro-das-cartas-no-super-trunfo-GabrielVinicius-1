@@ -41,7 +41,7 @@ int main() {
 
     printf("Insira o PIB:\n");
     scanf("%f", &pib);
-    printf("PIB; %.2f bilhoes de reais\n", pib);
+    printf("PIB: %.2f bilhoes de reais\n", pib);
 
     printf("Insira o numero de pontos turisticos:\n");
     scanf("%d", &turismo);
@@ -73,11 +73,11 @@ int main() {
 
     printf("Insira o PIB:\n");
     scanf("%f", &pib);
-    printf("PIB; %.2f bilhoes de reais\n", pib);
+    printf("PIB: %.2f bilhoes de reais\n", pib);
 
     printf("Insira o numero de pontos turisticos:\n");
-    scanf("%d", &"pontosturisticos");
-    printf("Pontos Turisticos: %d\n", "pontosturisticos");
+    scanf("%d", &turismo);
+    printf("Pontos Turisticos: %d\n", turismo);
 
     return 0;
 }
